@@ -58,6 +58,9 @@
     <Compile Include="Pavlova_4335.xaml.cs">
       <DependentUpon>Pavlova_4335.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Shafigullin.xaml.cs">
+      <DependentUpon>Shafigullin.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -71,6 +74,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Pavlova_4335.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Shafigullin.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

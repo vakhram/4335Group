@@ -29,9 +29,11 @@
 				<RowDefinition></RowDefinition>
 				<RowDefinition></RowDefinition>
 				<RowDefinition></RowDefinition>
-				<RowDefinition></RowDefinition>
-			</Grid.RowDefinitions>
-			<Button Grid.Row="12" Content="Pavlova Anastasia" Name="Pavlova_4335" Click="Pavlova_4335_Click"></Button>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+			<Button Grid.Row="11" Content="Pavlova Anastasia" Name="Pavlova_4335" Click="Pavlova_4335_Click"></Button>
+            <Button Grid.Row="19" Content="Shafigullin Ramil" Name="Shafigullin_4335" Click="Shafigullin_4335_Click"></Button>
+          
 		</Grid>
 	</Grid>
 </Window>

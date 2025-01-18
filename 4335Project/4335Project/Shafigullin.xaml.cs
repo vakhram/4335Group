@@ -10,32 +10,23 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace _4335Project
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Shafigullin.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Shafigullin : Window
     {
-        public MainWindow()
+        public Shafigullin()
         {
             InitializeComponent();
         }
 
-        private void Pavlova_4335_Click(object sender, RoutedEventArgs e)
+        private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            new Window1().Show();
-            Hide();
-        }
-
-
-        private void Shafigullin_4335_Click(object sender, RoutedEventArgs e)
-        {
-            new Shafigullin().Show();
-            Hide();
+            MessageBox.Show("Shafigullin Ramil 18 years old");
         }
     }
 }
