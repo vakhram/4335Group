@@ -37,5 +37,11 @@ namespace _4335Project
             new Shafigullin().Show();
             Hide();
         }
+
+        private void Zhelvakov_4335_Click(object sender, RoutedEventArgs e)
+        {
+            new Zhelvakov_4335().Show();
+            Hide();
+        }
     }
 }
