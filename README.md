@@ -3,7 +3,6 @@
 # Pavlova molodech
 # Shafigullin vay
 
-# Liza govorit pravdy (Zilya)
 
 <div>
     <h1 align="center">
