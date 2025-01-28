@@ -32,7 +32,9 @@
                 <RowDefinition></RowDefinition>
             </Grid.RowDefinitions>
 			<Button Grid.Row="11" Content="Pavlova Anastasia" Name="Pavlova_4335" Click="Pavlova_4335_Click"></Button>
+            
             <Button Grid.Row="19" Content="Shafigullin Ramil" Name="Shafigullin_4335" Click="Shafigullin_4335_Click"></Button>
+            <Button Grid.Row="20" Content="Yakimova Elizaveta" Name="Yakimova_4335" Click="Yakimova_4335_Click"></Button>
 			<Button Grid.Row="9" Content="Zhelvakov Arseniy" Name="Zhelvakov_4335" Click="Zhelvakov_4335_Click"></Button>
           
 		</Grid>

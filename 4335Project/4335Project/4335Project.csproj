@@ -55,12 +55,19 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="4335_Yakimova.xaml.cs">
+      <DependentUpon>4335_Yakimova.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pavlova_4335.xaml.cs">
       <DependentUpon>Pavlova_4335.xaml</DependentUpon>
     </Compile>
     <Compile Include="Shafigullin.xaml.cs">
       <DependentUpon>Shafigullin.xaml</DependentUpon>
     </Compile>
+    <Page Include="4335_Yakimova.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
