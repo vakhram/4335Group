@@ -2,7 +2,7 @@
 
 # Pavlova molodech
 # Shafigullin vay
-# Yakimova ne verit 
+# Yakimova ehh
 
 <div>
     <h1 align="center">
