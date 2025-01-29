@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|c:\\users\\lizay\\desktop\\yakimova\\4335group\\4335project\\4335project\\4335_yakimova.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\4335_yakimova.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335project\\4335_yakimova.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\4335_yakimova.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|c:\\users\\lizay\\desktop\\yakimova\\4335group\\4335project\\4335project\\4335_yakimova.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\4335_yakimova.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335project\\pavlova_4335.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,14 +31,6 @@
       "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\pavlova_4335.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335project\\shafigullin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\shafigullin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "4335_Yakimova.xaml.cs",
               "DocumentMoniker": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335Project\\4335_Yakimova.xaml.cs",
               "RelativeDocumentMoniker": "4335Project\\4335_Yakimova.xaml.cs",
@@ -59,26 +59,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "4335_Yakimova.xaml",
-              "DocumentMoniker": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335Project\\4335_Yakimova.xaml",
-              "RelativeDocumentMoniker": "4335Project\\4335_Yakimova.xaml",
-              "ToolTip": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335Project\\4335_Yakimova.xaml",
-              "RelativeToolTip": "4335Project\\4335_Yakimova.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-28T17:27:12.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335Project\\MainWindow.xaml",
               "RelativeDocumentMoniker": "4335Project\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335Project\\MainWindow.xaml",
               "RelativeToolTip": "4335Project\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-11T16:33:56.559Z"
+              "WhenOpened": "2025-01-11T16:33:56.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -93,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Pavlova_4335.xaml.cs",
               "DocumentMoniker": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335Project\\Pavlova_4335.xaml.cs",
               "RelativeDocumentMoniker": "4335Project\\Pavlova_4335.xaml.cs",
@@ -105,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Pavlova_4335.xaml",
               "DocumentMoniker": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335Project\\Pavlova_4335.xaml",
               "RelativeDocumentMoniker": "4335Project\\Pavlova_4335.xaml",
@@ -116,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Shafigullin.xaml.cs",
               "DocumentMoniker": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335Project\\Shafigullin.xaml.cs",
               "RelativeDocumentMoniker": "4335Project\\Shafigullin.xaml.cs",
@@ -128,15 +117,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "4335Project\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335Project\\MainWindow.xaml.cs",
               "RelativeToolTip": "4335Project\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAvwDMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T16:33:56.119Z"
+              "WhenOpened": "2025-01-11T16:33:56.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4335_Yakimova.xaml",
+              "DocumentMoniker": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335Project\\4335_Yakimova.xaml",
+              "RelativeDocumentMoniker": "4335Project\\4335_Yakimova.xaml",
+              "ToolTip": "C:\\Users\\lizay\\Desktop\\Yakimova\\4335Group\\4335Project\\4335Project\\4335_Yakimova.xaml",
+              "RelativeToolTip": "4335Project\\4335_Yakimova.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T17:27:12.904Z",
+              "EditorCaption": ""
             }
           ]
         },

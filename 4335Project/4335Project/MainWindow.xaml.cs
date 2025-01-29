@@ -43,5 +43,11 @@ namespace _4335Project
             new Zhelvakov_4335().Show();
             Hide();
         }
+
+        private void Yakimova_4335_Click(object sender, RoutedEventArgs e)
+        {
+            new _4335_Yakimova().Show();
+            Hide();
+        }
     }
 }
