@@ -36,7 +36,7 @@
             <Button Grid.Row="19" Content="Shafigullin Ramil" Name="Shafigullin_4335" Click="Shafigullin_4335_Click"></Button>
             <Button Grid.Row="20" Content="Yakimova Elizaveta" Name="Yakimova_4335" Click="Yakimova_4335_Click"></Button>
 			<Button Grid.Row="9" Content="Zhelvakov Arseniy" Name="Zhelvakov_4335" Click="Zhelvakov_4335_Click"></Button>
-          
-		</Grid>
+            <Button Grid.Row="10" Content="Kurmanova Zilya" Name="Kurmanova_4335" Click="Kurmanova_4335_Click"></Button>
+        </Grid>
 	</Grid>
 </Window>
