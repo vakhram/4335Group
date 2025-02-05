@@ -55,6 +55,11 @@ namespace _4335Project
             new Kurmanova_4335().Show();
             Hide();
         }
-       
+
+        private void Gappoev_4335_Click(object sender, RoutedEventArgs e)
+        {
+            new Gappoev_4335().Show();
+            this.Close();
+        }
     }
 }
