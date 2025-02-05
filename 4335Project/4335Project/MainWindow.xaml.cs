@@ -49,5 +49,12 @@ namespace _4335Project
             new _4335_Yakimova().Show();
             Hide();
         }
+
+        private void Kurmanova_4335_Click(object sender, RoutedEventArgs e)
+        {
+            new Kurmanova_4335().Show();
+            Hide();
+        }
+       
     }
 }

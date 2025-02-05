@@ -15,11 +15,11 @@ using System.Windows.Shapes;
 namespace _4335Project
 {
     /// <summary>
-    /// Логика взаимодействия для Zhelvakov_4335.xaml
+    /// Логика взаимодействия для Kurmanova_4335.xaml
     /// </summary>
-    public partial class Zhelvakov_4335 : Window
+    public partial class Kurmanova_4335 : Window
     {
-        public Zhelvakov_4335()
+        public Kurmanova_4335()
         {
             InitializeComponent();
         }
