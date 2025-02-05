@@ -58,13 +58,23 @@
     <Compile Include="4335_Yakimova.xaml.cs">
       <DependentUpon>4335_Yakimova.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Kurmanova_4335.xaml.cs">
+      <DependentUpon>Kurmanova_4335.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pavlova_4335.xaml.cs">
       <DependentUpon>Pavlova_4335.xaml</DependentUpon>
     </Compile>
     <Compile Include="Shafigullin.xaml.cs">
       <DependentUpon>Shafigullin.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Zhelvakov_4335.xaml.cs">
+      <DependentUpon>Zhelvakov_4335.xaml</DependentUpon>
+    </Compile>
     <Page Include="4335_Yakimova.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Kurmanova_4335.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -85,6 +95,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Shafigullin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Zhelvakov_4335.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
