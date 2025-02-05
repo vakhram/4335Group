@@ -67,6 +67,9 @@
     <Compile Include="Shafigullin.xaml.cs">
       <DependentUpon>Shafigullin.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Gappoev_4335.xaml.cs">
+      <DependentUpon>Gappoev_4335.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Zhelvakov_4335.xaml.cs">
       <DependentUpon>Zhelvakov_4335.xaml</DependentUpon>
     </Compile>
@@ -95,6 +98,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Shafigullin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Gappoev_4335.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
