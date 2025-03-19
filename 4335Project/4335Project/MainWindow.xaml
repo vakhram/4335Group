@@ -31,6 +31,7 @@
 				<RowDefinition></RowDefinition>
                 <RowDefinition></RowDefinition>
             </Grid.RowDefinitions>
+			<Button Grid.Row="6" Content="Vakhrameev Daniil" Name="Vakhrameev_4335" Click="Vakhrameev_4335_Click"/>
             <Button Grid.Row="7" Content="Gappoev Kamil" Name="Gappoev_4335" Click="Gappoev_4335_Click"/>
 
             <Button Grid.Row="11" Content="Pavlova Anastasia" Name="Pavlova_4335" Click="Pavlova_4335_Click"></Button>
